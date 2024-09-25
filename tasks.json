@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Task One",
+    "description": "This is task one",
+    "dueDate": "2024-09-01",
+    "priority": "High",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "title": "Task Two",
+    "description": "This is task two",
+    "dueDate": "2024-10-01",
+    "priority": "Medium",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "title": "Task three",
+    "description": "This is task two",
+    "dueDate": "2024-10-01",
+    "priority": "Medium",
+    "status": "In Progress"
+  }
+]
